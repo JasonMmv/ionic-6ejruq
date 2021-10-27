@@ -1,0 +1,21 @@
+{
+  "name": "ionic-6ejruq",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^12.2.11",
+    "@angular/common": "^12.2.11",
+    "@angular/compiler": "^12.2.11",
+    "@angular/compiler-cli": "^12.2.11",
+    "@angular/core": "^12.2.11",
+    "@angular/forms": "^12.2.11",
+    "@angular/http": "^7.2.16",
+    "@angular/platform-browser": "^12.2.11",
+    "@angular/platform-browser-dynamic": "^12.2.11",
+    "core-js": "^3.19.0",
+    "ionic-angular": "^3.9.10",
+    "rxjs": "^7.4.0",
+    "typescript": "^4.4.4",
+    "zone.js": "^0.11.4"
+  }
+}
